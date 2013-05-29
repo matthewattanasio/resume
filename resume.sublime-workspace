@@ -520,10 +520,13 @@
 	"buffers":
 	[
 		{
+			"contents": "\n<!DOCTYPE html>\n<!--[if IE 8]> <html class=\"no-js lt-ie9\" lang=\"en\" > <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en\" > <!--<![endif]-->\n\n<head>\n	<meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width\" />\n  <title>Resume of Matthew Attanasio</title>\n\n  <link rel=\"stylesheet\" href=\"stylesheets/app.css\" />\n  \n  <script src=\"javascripts/vendor/custom.modernizr.js\"></script>\n</head>\n<body>\n\n	<div class=\"row\">\n		<div class=\"large-12 columns\">\n			<img src=\"\" alt=\"matthew attanasio\" />\n			<h1>Matthew Attanasio</h1>\n			<h2>Web Developer</h2>\n\n			<div class=\"social-link\">\n				<a href=\"http://au.linkedin.com/pub/matthew-attanasio/36/a/925\">LinkedIn</a>\n				<a href=\"http://www.flickr.com/photos/matthewattanasio/\">Flickr</a>\n				<a href=\"https://www.facebook.com/matthewattanasio\">Facebook</a>\n			</div>\n\n			<div class=\"contact\">\n                <span class=\"contact-item\"><i class=\"icon-phone\"></i> <a href=\"tel:0401029144\">0401029144</a></span>\n                <span class=\"contact-item\"><i class=\"icon-mail-alt\"></i> <a href=\"mailto:matthew.attanasio135@gmail.com\">matthew.attanasio135@gmail.com</a></span>\n			</div>\n			<hr />\n		</div>\n	</div>\n\n	<div class=\"row\">\n		<div class=\"large-4 columns\">\n			<h2>Personal Info</h2>\n		</div>\n\n		<div class=\"large-8 columns\">\n			<p></p>\n		</div>\n	</div>\n\n	<div class=\"row\">\n		<div class=\"large-4 columns\">\n			<h2>Work Experience</h2>\n		</div>\n\n		<div class=\"large-8 columns\">\n			<div class=\"divider\">\n				<h3>Web Developer, Full-Time</h2>\n				<h4>The Memphis Agency</h4>\n				<div class=\"time\">April 2011 - Present</div>\n				\n				<p>Spanning over two years and a couple of months I have worked on over 40 individual projects, everything from basic html/css templates to custom built full e-commerce solutions integrated on top of a web application framework and cms named <a href=\"http://www.farcrycore.org/\">farcry.</a></p>\n\n				<p>In this time I have learnt the art of perfection, always striving to achieve the best result I possibly can. In practice this would mean creating pixel perfect layouts using HTML and CSS, while also writing the code that would look just as good when presented in a modern text editor.</p>\n\n				<p>Some of the most notable projects are listed below</p>\n\n				<ul>\n					<li><strong>CFS</strong> - Bushfire Awareness App <a href=\"http://www.cfs.sa.gov.au/site/prepare_act_survive_2012/be_bushfire_ready/be_bushfire_ready_app.jsp\">Link</a></li>\n					<li><strong>Edharry</strong> - developed entire e-commerce solution <a href=\"www.edharry.com\">Link</a></li>\n					<li><strong>fcbResponsive</strong> - front end responsive framework used internally</li>\n				</ul>\n			</div>\n\n			<div class=\"divider\">\n				<h3>FreeLance Web Developer</h3>\n				<h4>Multiple Clients</h4>\n\n				<ul>\n					<li><strong>KBERG Line Marking Service</strong> - single page designed and developed in browser <a href=\"http://kberglines.com/\">link</a></li>\n				</ul>\n			</div>\n		</div>\n	</div>\n\n	<div class=\"row\">\n		<div class=\"large-4 columns\">\n			<h2>Technical Skills</h2>\n		</div>\n\n		<div class=\"large-8 columns\">\n			<div class=\"divider\">\n				<h3>HTML & CSS</h3>\n				<div class=\"time\">Expert 2 Years</div>\n				<p></p>\n			</div>\n\n			<div class=\"divider\">\n				<h3>Javascript</h3>\n				<div class=\"time\">Expert 2 Years</div>\n				<p>Able to write pure js code when necassary, I have extensive knowledge of jQuery and use it to write everything from basic dom manipulation to web apps that require multiple ajax calls. I have also touched on Canvas with javascript</p>\n			</div>\n\n			<div class=\"divider\">\n				<h3>Coldfusion</h3>\n				<div class=\"time\">Expert 2 Years</div>\n				<p>Two years </p>\n			</div>\n\n			<div class=\"divider\">\n				<h3>MYSQL</h3>\n				<div class=\"time\">Expert 2 Years</div>\n				<p></p>\n			</div>\n\n			<div class=\"divider\">\n				<h3>PHP</h3>\n				<div class=\"time\">Intermediate 2 Years</div>\n				<p>I used it all the time in University and a bit after for my own personal projects</p>\n			</div>\n		</div>\n	</div>\n\n	<div class=\"row\">\n		<div class=\"large-4 columns\">\n			<h2>Education</h2>\n		</div>\n\n		<div class=\"large-8 columns\">\n			<h3>Bachelor of Computer and Information Science / Bachelor of Media Arts</h3>\n			<h4>University of South Australia</h4>\n			<div class=\"time\">2006 - 2011</div>\n\n			<h3>South Australian Certificate of Education - SACE</h3>\n			<h4>St Michaels College</h4>\n			<div class=\"time\">2001 - 2006</div>\n		</div>\n	</div>\n	\n\n  <script>\n  document.write('<script src=' +\n  ('__proto__' in {} ? 'javascripts/vendor/zepto' : 'javascripts/vendor/jquery') +\n  '.js><\\/script>')\n  </script>\n  \n  <script src=\"javascripts/foundation/foundation.js\"></script>\n	\n  <script>\n    $(document).foundation();\n  </script>\n</body>\n</html>\n",
 			"file": "index.html",
+			"file_size": 4873,
+			"file_write_time": 130143097161101443,
 			"settings":
 			{
-				"buffer_size": 3129,
+				"buffer_size": 4725,
 				"line_ending": "Windows"
 			}
 		}
@@ -1112,15 +1115,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 3129,
+						"buffer_size": 4725,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								847,
-								847
+								3189,
+								3189
 							]
 						],
 						"settings":
@@ -1128,10 +1131,11 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/Enhanced HTML and CFML/EnhancedHTML.tmLanguage"
+							"syntax": "Packages/Enhanced HTML and CFML/EnhancedHTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 215.0,
+						"translation.y": 1558.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

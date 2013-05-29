@@ -1,0 +1,1300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nav",
+				"navbar-fixed-top"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"type",
+				"type=\"date\"	type"
+			],
+			[
+				"qEx",
+				"qExpiringLicenses"
+			],
+			[
+				"cf",
+				"cfsqltype=\"cf_sql_integer\"	cfsqltype"
+			],
+			[
+				"fcbSHopp",
+				"fcbShoppingCart"
+			],
+			[
+				"struc",
+				"structIsEmpty"
+			],
+			[
+				"has",
+				"hasSubmited"
+			],
+			[
+				"action",
+				"action=\"wddx2cfml\"	action"
+			],
+			[
+				"return",
+				"returntype=\"boolean\"	returntype"
+			],
+			[
+				"otu",
+				"output=\"false\"	output"
+			],
+			[
+				"prevent",
+				"preventDefault()	jquery.js"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"re",
+				"required=\"true\"	required"
+			],
+			[
+				"array",
+				"arrayAppend"
+			],
+			[
+				"cfsqltype",
+				"cfsqltype=\"cf_sql_varchar\"	cfsqltype"
+			],
+			[
+				"c",
+				"cfsqltype=\"cf_sql_double\"	cfsqltype"
+			],
+			[
+				"cfsql",
+				"cfsqltype=\"cf_sql_varchar\"	cfsqltype"
+			],
+			[
+				"qResults",
+				"qResultsInCart"
+			],
+			[
+				"fcbProduct",
+				"fcbProductVariaton"
+			],
+			[
+				"d",
+				"dbtype	@dbtype"
+			],
+			[
+				"shipp",
+				"shippingAddress2"
+			],
+			[
+				"shippin",
+				"shippingAddress1"
+			],
+			[
+				"list",
+				"list=\"true\"	list"
+			],
+			[
+				"main",
+				"mainColor"
+			],
+			[
+				"pos",
+				"pos:a	position:absolute"
+			],
+			[
+				"product",
+				"productTeaser"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"Request",
+				"REQUEST_URI"
+			],
+			[
+				"Server",
+				"ServerAlias"
+			],
+			[
+				"variation",
+				"variationQty"
+			],
+			[
+				"BDIST",
+				"BDISTRIBUTION"
+			],
+			[
+				"pain",
+				"pain-relief"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"focus",
+				"inputFocusBgColor"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"after",
+				"page-break-after"
+			],
+			[
+				"disqus",
+				"disqus_thread"
+			],
+			[
+				"text-de",
+				"text-decoration"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"q",
+				"qCurrentUserProfileID"
+			],
+			[
+				"url",
+				"URLEncode"
+			],
+			[
+				"temp",
+				"tempProductImport"
+			],
+			[
+				"dis",
+				"discountAmountPercentage"
+			],
+			[
+				"sub",
+				"subcategory"
+			],
+			[
+				"def",
+				"default	@default"
+			],
+			[
+				"creat",
+				"createUUID"
+			],
+			[
+				"i",
+				"item	@item"
+			],
+			[
+				"typ",
+				"type=\"numeric\"	type"
+			],
+			[
+				"com",
+				"component-distribution"
+			],
+			[
+				"pro",
+				"promoCodeID"
+			],
+			[
+				"ret",
+				"returntype=\"Struct\"	returntype"
+			],
+			[
+				"disc",
+				"discountAmountPercentage"
+			],
+			[
+				"discount",
+				"discountAmountDollar"
+			],
+			[
+				"cloud",
+				"cloud-zoom"
+			],
+			[
+				"pt-sb",
+				"pt-sb-imageWrap"
+			],
+			[
+				"cfqu",
+				"cfquery"
+			],
+			[
+				"last",
+				"last-child"
+			],
+			[
+				"ntth",
+				":nth-child(|)"
+			],
+			[
+				"cfsq",
+				"cfsqltype=\"cf_sql_varchar\"	cfsqltype"
+			],
+			[
+				"nth",
+				":nth-last-child(|)"
+			],
+			[
+				"dob",
+				"dobMonth"
+			],
+			[
+				"shop-",
+				"shop-secondary"
+			],
+			[
+				"shop",
+				"shop-primary"
+			],
+			[
+				"current",
+				"current_slide_no"
+			],
+			[
+				"pt",
+				"pt-label"
+			],
+			[
+				"fcbsho",
+				"fcbShoppingCart"
+			],
+			[
+				"que",
+				"QuerySetCell"
+			],
+			[
+				"parent",
+				"parentLabel"
+			],
+			[
+				"bDIS",
+				"BDISTRIBUTION"
+			],
+			[
+				"pre",
+				"preserveSingleQuotes"
+			],
+			[
+				"fcbProdu",
+				"fcbProductVariation"
+			],
+			[
+				"item",
+				"itemDescription"
+			],
+			[
+				"get",
+				"getTypeID"
+			],
+			[
+				"ed",
+				"edDepartment"
+			],
+			[
+				"bHasBe",
+				"bHasBeenCompleted"
+			],
+			[
+				"edDist",
+				"edDistributionID"
+			],
+			[
+				"btn",
+				"btn-qty"
+			],
+			[
+				"new",
+				"newComponent"
+			],
+			[
+				"save",
+				"save-product-selection"
+			],
+			[
+				"ser",
+				"serializeJSON	fn. (cfscript)"
+			],
+			[
+				"comp",
+				"component-addProduct"
+			],
+			[
+				"n",
+				":nth-last-child(|)"
+			],
+			[
+				"data",
+				"data-direction"
+			],
+			[
+				"fancybx",
+				"fancybox-wrap"
+			],
+			[
+				"write",
+				"writeDump	fn. (cfscript)"
+			],
+			[
+				"addto",
+				"addtoken=\"false\"	addtoken"
+			],
+			[
+				"timse",
+				"timesheet-module"
+			],
+			[
+				"create",
+				"createODBCDateTime	fn. (cfscript)"
+			],
+			[
+				"createO",
+				"createODBCDate	fn. (cfscript)"
+			],
+			[
+				"timesheet",
+				"timesheet-module"
+			],
+			[
+				"time",
+				"timesheet-module"
+			],
+			[
+				"timeshe",
+				"timesheet-module"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"timeshee",
+				"timesheet-bar"
+			],
+			[
+				"times",
+				"timesheetBar"
+			],
+			[
+				"cfsqltyp",
+				"cfsqltype=\"cf_sql_timestamp\"	cfsqltype"
+			],
+			[
+				"acc",
+				"access=\"public\"	access"
+			],
+			[
+				"cfsqlt",
+				"cfsqltype=\"cf_sql_varchar\"	cfsqltype"
+			],
+			[
+				"cf_sql",
+				"cfsqltype=\"cf_sql_integer\"	cfsqltype"
+			],
+			[
+				"str",
+				"structNew	fn. (cfscript)"
+			],
+			[
+				"pd",
+				"pd-quantity"
+			],
+			[
+				"data-",
+				"data-prodobj"
+			],
+			[
+				"t",
+				"type=\"html\"	type"
+			],
+			[
+				"email",
+				"email_address"
+			],
+			[
+				"alert",
+				"alert-error"
+			],
+			[
+				"fcbsh",
+				"fcbShoppingCart"
+			],
+			[
+				"oPo",
+				"oInventoryPool"
+			],
+			[
+				"cfqe",
+				"cfqueryparam	Tag (cmfl)"
+			],
+			[
+				"is",
+				"isEmptyObject"
+			],
+			[
+				"structkey",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"structKey",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"opt",
+				"option"
+			],
+			[
+				"shipping",
+				"shippingDetails"
+			],
+			[
+				"cfhttp",
+				"cfhttpparam"
+			],
+			[
+				"moz",
+				"-moz-border-radius	zen:css_properties"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"cfquery",
+				"cfqueryparam	Tag (cmfl)"
+			],
+			[
+				"output",
+				"output=\"false\"	output"
+			],
+			[
+				"returntype",
+				"returntype=\"UUID\"	returntype"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"outpt",
+				"output=\"false\"	output"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3129,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"file",
+				"File: Search Files"
+			],
+			[
+				"file s",
+				"File: Search Files"
+			],
+			[
+				"file se",
+				"File: Search Files"
+			],
+			[
+				"sftp",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"sfto",
+				"SFTP: Show Panel"
+			],
+			[
+				"sft",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"isnt",
+				"Sort Lines (Case Sensitive)"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/extra/httpd-vhosts.conf",
+		"/C/websites/kberglineandmarking/css/bootstrap-responsive.min.css",
+		"/C/websites/kberglineandmarking/js/main.js",
+		"/C/websites/kberglineandmarking/js/plugins.js",
+		"/C/websites/kberglineandmarking/css/1200.css",
+		"/C/websites/kberglineandmarking/css/500.css",
+		"/C/websites/kberglineandmarking/css/767.css",
+		"/C/websites/kberglineandmarking/css/979.css",
+		"/C/websites/kberglineandmarking/css/320.css",
+		"/C/websites/kberglineandmarking/css/480.css",
+		"/C/websites/kberglineandmarking/css/fonts.css",
+		"/C/websites/kberglineandmarking/index.php",
+		"/C/websites/kberglineandmarking/css/780.css",
+		"/C/Users/MATTAN~1/AppData/Local/Temp/Rar$DRa0.526/fontello-3a824c34/css/fontello.css",
+		"/C/Users/mattanasio/AppData/Local/Temp/Rar$DIa0.440/fontello.css",
+		"/C/websites/kberglineandmarking/.gitignore",
+		"/C/websites/kberglineandmarking/css/style.css",
+		"/C/websites/kberglineandmarking/index.html",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/webskin/types/displayHeaderStandard.cfm",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/webskin/types/displayHeaderFrontEndLogin.cfm",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/includedObj/_findMoreTools.cfm",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/webskin/dmHTML/displayPageDivision.cfm",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/system/dmCron/licenseExpiryNotification.cfm",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/system/dmCron/businessLicenseExpiryNotification.cfm",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/system/dmCron/businessCertificateExpiryNotification.cfm",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/packages/custom/utility.cfc",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/system/dmCron/certificateExpiryNotification.cfm",
+		"/C/websites/mcmahonintranet/farcry/plugins/fcbpostoffice/packages/fcb/fcbEmail.cfc",
+		"/C/websites/mcmahonintranet/farcry/core/packages/lib/email.cfc",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/customadmin/customadmin.xml",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/customadmin/customlists/staffTraining.cfm",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/customadmin/customlists/staffLicense.cfm",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/customadmin/customlists/trainingCourses.cfm",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/customadmin/customlists/businessCertificates.cfm",
+		"/C/websites/kberglineandmarking/font/fontello.css",
+		"/C/websites/kberglineandmarking/fonts/fontello.css",
+		"/C/websites/kberglineandmarking/fonts/animation.css",
+		"/C/websites/mcmahonintranet/apps/ajaxPlantEquipmentServicesPaginator.cfm",
+		"/C/websites/mcmahonintranet/apps/ajaxPlantEquipmentPhotosPaginator.cfm",
+		"/C/websites/mcmahonintranet/apps/ajaxSearchPaginator.cfm",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/packages/types/mcmServiceHistory.cfc",
+		"/C/websites/mcmahonintranet/apps/ajaxRulePaginator.cfm",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/packages/types/mcmPlantType.cfc",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/packages/types/mcmDivision.cfc",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/packages/types/mcmTrainingCourse.cfc",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/packages/types/mcmLocation.cfc",
+		"/C/websites/mcmahonintranet/farcry/projects/mcmahonintranet/packages/types/mcmManufacturer.cfc",
+		"/C/websites/mcleodaustraliapostreturns/test.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/packages/types/fcbOrderReturn.cfc",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbOrderReturn/displayMeCRequest.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbOrderReturn/displayPageViewReturn.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/packages/types/mecRequest.cfc",
+		"/C/Users/mattanasio/Desktop/OrderSubmissionMsg.xsd",
+		"/C/websites/mcleodaustraliapostreturns/files/xml/4.xml",
+		"/C/websites/mcleodaustraliapostreturns/files/xml/3.xml",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbOrderReturn/displayPageEmailProcessed.cfm",
+		"/C/Users/mattanasio/Desktop/OrderResponseMsg.xsd",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/dmHTML/displayBodyComplete.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/dmHTML/displayBodyContactDetails.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbOrderReturn/displayPageRejectReturn.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/customadmin/customlists/fcbProduct.cfm",
+		"/C/websites/mcleodaustraliapostreturns/js/fcbResponsive.js",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/packages/custom/fcbShoppingBag.cfc",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbOrderReturn/displayPageEmailReject.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/dmHTML/displayBodyProductSearch.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/customadmin/customlists/fcbOrderReturn.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/plugins/fcbshop/packages/custom/cart.cfc",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbOrderReturn/displayPageProcess.cfm",
+		"/C/websites/dririder/farcry/projects/dririder/webskin/fcbOrderReturn/displayPageConfirmReturn.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbOrderReturn/displayPageConfirmReturn.cfm",
+		"/C/websites/mcleodaustraliapostreturns/scss/_variables.scss",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbOrderReturn/displayPageEmailConfirm.cfm",
+		"/C/websites/dririder/farcry/projects/dririder/packages/types/fcbProductOrder.cfc",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbOrderReturn/displayPageStandard.cfm",
+		"/C/websites/dririder/farcry/projects/dririder/packages/types/fcbVoucher.cfc",
+		"/C/websites/dririder/farcry/projects/dririder/packages/types/fcbOrderReturn.cfc",
+		"/C/websites/m2r/farcry/projects/m2r/packages/types/fcbReturnsAddress.cfc",
+		"/C/websites/m2r/farcry/projects/m2r/webskin/fcbOrderReturn/displayPageReturnsForm.cfm",
+		"/C/websites/m2r/farcry/projects/m2r/packages/types/fcbOrderReturn.cfc",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/dmHTML/displayBodyExchangeProducts.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/packages/types/fcbProduct.cfc",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbProduct/displayExchange.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbProduct/displaySearch.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbOrderReturn/returnStatus.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbOrderReturn/editLink.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/packages/forms/configFcbShop.cfc",
+		"/C/websites/mcleodaustraliapostreturns/scss/_modules.scss",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/dmHTML/displayPageExchange.cfm",
+		"/C/websites/mcleodaustraliapostreturns/scss/_layout.scss",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/types/displayHeaderStandard.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/customadmin/customadmin.xml",
+		"/C/websites/mcleodaustraliapostreturns/farcry/plugins/fcbshop/customadmin/customadmin.xml",
+		"/C/websites/mcleodaustraliapostreturns/scss/components/_ui.scss",
+		"/C/websites/mcleodaustraliapostreturns/scss/_base.scss",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbOrderReturn/orderDetails.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbOrderReturn/returnDetails.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/plugins/fcbshop/packages/custom/fcbShoppingBag.cfc",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbOrderReturn/displayEditLink.cfm",
+		"/C/websites/m2r/farcry/projects/m2r/packages/types/fcbProductOrder.cfc",
+		"/C/websites/mcleodaustraliapostreturns/cakefile",
+		"/C/websites/mcleodaustraliapostreturns/css/fcbResponsive.css",
+		"/C/websites/m2r/farcry/projects/m2r/packages/forms/configFcbShopPayment.cfc",
+		"/C/websites/m2r/js/shop.js",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/tags/fcbShop/checkOutStepBar.cfm",
+		"/C/websites/mcleodaustraliapostreturns/scss/components/_buttons.scss",
+		"/C/websites/mcleodaustraliapostreturns/scss/components/fonts/wysiwyg.scss",
+		"/C/websites/mcleodaustraliapostreturns/farcry/plugins/fcbshop/packages/types/fcbInventoryPool.cfc",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/system/dmCron/checkProductImportUpdate.cfm",
+		"/C/websites/mcleodaustraliapostreturns/files/data/products/backup/AP_PRODUCTS.ttx",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/system/dmCron/productImport.cfm",
+		"/C/Users/mattanasio/Desktop/sites.xml",
+		"/C/websites/m2r/farcry/projects/m2r/customadmin/customadmin.xml",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/types/displayFooterStandard.cfm",
+		"/C/websites/m2r/farcry/projects/m2r/packages/forms/configM3.cfc",
+		"/C/websites/dririder/farcry/projects/dririder/packages/types/fcbPendingImport.cfc",
+		"/C/websites/mcleodaustraliapostreturns/files/data/products/new/AP_PRODUCTS.ttx",
+		"/C/websites/dririder/files/data/inventory/backup/m3_inventory.ttx",
+		"/C/Users/mattanasio/Desktop/AP_PRODUCTS.txt",
+		"/C/15052013100001_m3_inventory.ttx",
+		"/C/websites/dririder/files/data/products/backup/m3_product.ttx",
+		"/C/websites/m2r/test.cfm",
+		"/C/websites/m2r/farcry/projects/m2r/packages/types/fcbProductVariation.cfc",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbOrderReturn/displayPageReturnsForm.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbOrderReturn/displayBodyStandard.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/includedObj/_productSearch.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcry/core/Application.cfc",
+		"/C/Users/mattanasio/AppData/Local/Temp/fz3temp-1/farcryConstructor.cfm",
+		"/C/websites/mcleodaustraliapostreturns/farcryConstructor.cfm"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\websites\\mcmahonintranet\\farcry\\projects",
+			"C:\\websites\\mcmahonintranet",
+			"C:\\websites\\mcleodaustraliapostreturns",
+			"C:\\websites\\dririder",
+			"C:\\websites\\mcleodaustraliapostreturns",
+			"C:\\websites\\m2r",
+			"C:\\websites\\mcleodaustraliapostreturns",
+			"C:\\websites\\m2r",
+			"C:\\websites\\mcleodaustraliapostreturns",
+			"C:\\websites\\mcleodaustraliapost",
+			"C:\\websites\\m2r",
+			"C:\\websites\\mcleodaustraliapostreturns",
+			"C:\\websites\\mcleodaustrliapostreturns",
+			"C:\\websites\\m2r",
+			"C:\\websites\\mcleodaustraliapostreturns",
+			"C:\\websites\\dririder/farcry\\projects\\dririder\\webskin\\fcbOrderReturn",
+			"C:\\websites\\m2r",
+			"C:\\websites\\mcleodaustraliapostreturns",
+			"C:\\websites\\dririder",
+			"C:\\websites\\m2r",
+			"C:\\websites\\mcleodaustraliapostreturns",
+			"C:\\websites\\m2r",
+			"C:\\websites\\mcleodaustraliapostreturns\\farcry\\projects\\mcleodaustraliapostreturns\\webskin\\fcbOrderReturn",
+			"C:\\websites\\mcleodaustraliapostreturns",
+			"C:\\websites\\edharry",
+			"C:\\websites\\mcleodaustraliapostreturns",
+			"C:\\websites\\mcleodaustralianpostreturns",
+			"C:\\websites\\m2r",
+			"C:\\websites\\mcleodaustraliapostreturns",
+			"C:\\websites\\m2r",
+			"C:\\websites\\edharry",
+			"C:\\websites\\mcleodaustraliapostreturns",
+			"C:\\websites\\m2r",
+			"C:\\websites\\mcleodaustraliapostreturns",
+			"C:\\websites\\dririder",
+			"C:\\websites\\hoshizakilancer",
+			"C:\\websites\\crccare",
+			"C:\\websites\\edharry",
+			"C:\\websites\\",
+			"C:\\websites\\hoshizakilancer",
+			"C:\\websites\\fcbresponsiveskeleton",
+			"C:\\websites\\edharry",
+			"C:\\websites\\fcbResponsiveskeleton",
+			"C:\\websites\\edharry",
+			"C:\\websites\\autopia",
+			"C:\\websites\\fcbresponsiveskeleton",
+			"C:\\websites\\percutane",
+			"C:\\websites\\fcbresponsiveskeleton",
+			"C:\\websites\\hoshizakilancer\\apps\\",
+			"C:\\websites\\hoshizakilancer",
+			"C:\\websites\\fcbResponsiveSkeleton",
+			"C:\\websites\\fcbResponsive",
+			"C:\\websites\\hoshizakilancer",
+			"C:\\websites\\dririder",
+			"C:\\websites\\hoshizakilancer",
+			"C:\\websites\\dririder",
+			"C:\\websites\\edharry",
+			"C:\\websites\\dririder",
+			"C:\\websites\\edharry",
+			"C:\\websites\\dririder",
+			"C:\\websites\\edharry",
+			"C:\\websites\\dririder\\",
+			"C:\\websites\\dririder\\farcry\\projects",
+			"C:\\websites\\dririder\\farcry\\project",
+			"C:\\websites\\dririder",
+			"C:\\websites\\edharry",
+			"C:\\websites\\dririder\\",
+			"C:\\websites\\dririder\\farcry\\projects",
+			"C:\\websites\\dririder\\",
+			"C:\\websites\\dririder\\farcry\\projects",
+			"C:\\websites\\dririder\\farcry",
+			"C:\\websites\\dririder\\",
+			"C:\\websites\\dririder\\farcry\\projects",
+			"C:\\websites\\dririder",
+			"C:\\websites\\base",
+			"C:\\websites\\dririder",
+			"C:\\websites\\beerenberg",
+			"C:\\websites\\edharry",
+			"C:\\websites\\dririder",
+			"C:\\websites\\ashdown",
+			"C:\\websites\\dririder",
+			"C:\\websites\\edharry\\",
+			"C:\\websites\\edharry\\farcry\\projects",
+			"C:\\websites\\edharry",
+			"C:\\websites\\autopia",
+			"C:\\websites\\ashdown",
+			"C:\\websites\\autopia",
+			"C:\\websites\\edharry",
+			"C:\\websites\\autopia",
+			"C:\\websites\\percutane",
+			"C:\\websites\\autopia",
+			"C:\\websites\\percutane",
+			"C:\\websites\\edharry",
+			"C:\\websites\\autopia",
+			"C:\\websites\\quantum",
+			"C:\\websites\\ashdown\\farcry\\projects",
+			"C:\\websites\\ashdown",
+			"C:\\websites\\edharry",
+			"C:\\websites\\autopia",
+			"C:\\websites\\swaper",
+			"C:\\websites\\edharry",
+			"C:\\websites\\percutane",
+			"C:\\websites\\percutane\\farcry\\core",
+			"C:\\websites\\percutan\\farcry\\core",
+			"C:\\websites\\kirkbee\\farcry\\projects",
+			"C:\\websites\\kirkbee\\farcry\\project",
+			"C:\\websites\\kirkbee",
+			"C:\\websites\\percutane",
+			"C:\\websites\\fcbresponsiveskeleton",
+			"C:\\websites\\foundation",
+			"C:\\websites\\fcbresponsiveskeleton",
+			"C:\\websites\\mcmahonservices",
+			"C:\\websites\\fcbresponsiveskeleton",
+			"C:\\websites\\ember-todo",
+			"C:\\websites\\m2r",
+			"C:\\websites\\foundation",
+			"C:\\websites\\founation",
+			"C:\\websites\\fcbresponsiveskeleton",
+			"C:\\websites\\fcbresponsive",
+			"C:\\websites\\autopia",
+			"C:\\websites\\edharry",
+			"C:\\websites\\fcbresponsiveskeleton",
+			"C:\\websites\\foundation",
+			"C:\\websites\\fcbresponsiveskeleton",
+			"C:\\websites\\autopia",
+			"C:\\websites\\fcbresponsiveskeleton",
+			"C:\\websites\\autopia",
+			"C:\\websites\\autopa"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"auto",
+			"line",
+			"}\n",
+			"third",
+			".third",
+			">\n",
+			"<li>",
+			"/fonte",
+			"/fo",
+			"/f",
+			":",
+			"border",
+			">\n",
+			"div",
+			"getFields",
+			"You can combine multiple search items to narrow your results.",
+			"quickSearchSubmit",
+			"sLink",
+			"Find More Tools",
+			"Personnel License Expiry Notification",
+			"personnel training certificate expiry",
+			"qExpiringCerts",
+			"Business Training Certificate Expiry Notification",
+			"Business License Expiry Notification",
+			"qExpiredCerts",
+			"/>\n",
+			"Personnel License Expiry Notification",
+			"qExpiringCerts",
+			"	\n",
+			"name=\"send\"",
+			"personnel training certificate",
+			"link =",
+			"label =",
+			"fontello",
+			"..",
+			"('../",
+			"vouchers",
+			"uploadXMLFileToMec",
+			"pushOrderToMec",
+			"Create MeC Request",
+			"getMecResponseFile",
+			"processMecResponse",
+			"processMecResponseFile",
+			"return confirm('Are you sure you want to process this request?')",
+			"pushOrderToMec",
+			"uploadXMLFileToMec",
+			"generateOrderXML",
+			"sendMeCEmailNotification",
+			"generateOrderXML",
+			"xmlDoc.OrderSubmissionMsg.XmlChildren[4].XmlText",
+			"generateOrderXML",
+			"Team M2R",
+			"Return Rejected Details",
+			"Select the items you wish to return below:",
+			"Reference Number",
+			"session",
+			"++ ",
+			"isCartEmpty",
+			"<br />",
+			"<div class=\"clearBoth\"></div>",
+			"Admin Return Details",
+			"clearBoth",
+			"f26600",
+			"<!-------------",
+			"f26600",
+			"Your order return was confirmed successfully.",
+			"createPDF",
+			"confirmOrderReturn",
+			"Your order return was confirmed successfully.",
+			"Return Details",
+			"Your order return was confirmed successfully.",
+			"Return Details",
+			"Once the items have been recieved the next step is to Process the payment.",
+			"addressId",
+			"getAddressIdByState",
+			"displayPageConfirmReturn",
+			"Your order return was confirmed successfully.",
+			"getAddressIdByState",
+			"addressId",
+			"newVariationID",
+			"order",
+			"confirmOrderReturn",
+			"addressId",
+			"createPDF",
+			"currentEl",
+			"optionHTML",
+			"option",
+			"updateVariationSizeList",
+			"']);",
+			"stReturn = oReturn.getData(session.return.objectid);",
+			"objectid",
+			"				\n",
+			"_style",
+			"config.fcbShop.contactEmail",
+			"CONTACTEMAIL",
+			"please describe the reason you are",
+			"Reason for Return: (please describe the reason you are returning the item(s)",
+			"Reason for Return: (please describe the reason you are returning the item(s))",
+			"* Required Fields",
+			"Return Rejected Details",
+			"Return Details",
+			"Return Rejected Details",
+			"<label",
+			"label",
+			"Reason Return is not accepted",
+			"displayPageStandard",
+			"sendEmailToClient",
+			"		\n",
+			"3",
+			"2",
+			"returnNumber",
+			"updateVariationInfo",
+			"buildProductObj",
+			"changeCheckBoxState",
+			".top",
+			"mail",
+			"fcbMail",
+			"mail",
+			"fcbShopPayment",
+			"configFcbShop",
+			":",
+			"state",
+			"delay",
+			"clearTimeout",
+			"delay",
+			"returnNumber",
+			"form-section",
+			"Please choose a size that you would like to exchange with"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"config.fcbShop.orderReturnToAddress",
+			"family: $mainFont",
+			"font-family: $mainFont",
+			"font-family: $secondaryFont",
+			"font-family: $mainFont",
+			"font-family: $fontFamilyMain",
+			"include fontFamilyMain",
+			"Dririder",
+			"dririder",
+			"/#application.displayName#",
+			"#ed1c24",
+			"ed1c24",
+			"ED1C24",
+			"#ed1c24",
+			"dririder-red",
+			"700",
+			"#ed1c24",
+			"class=\"hide",
+			"$secondaryColour",
+			"buttonRadius",
+			"mainColor",
+			"$mainColour",
+			"stObj",
+			"the-haus-studio-apartments",
+			"Warning: Store does not support current quantity amount",
+			"(0)4",
+			"(0)4\n#the-haus-studio-appartments",
+			"#the-haus,\n#the-haus-studio-appartments",
+			"+61 (0)",
+			"socialTwitter",
+			"http://thememphisagency.eccleston.telligence.net.au/wsimages/emailSignaturesNew/",
+			"http://thememphisagency.eccleston.telligence.net.au/",
+			"btn-goToProduct",
+			"1.00",
+			"1.0",
+			"campaignMonitor.listid",
+			"sVariationSQL",
+			"sSizeSQL",
+			"sBrandSQL",
+			"sDeptSQL",
+			"sTempSQL",
+			"this",
+			"stObj",
+			"qEntries",
+			"arguments.data",
+			"form",
+			"qty",
+			"sMessage",
+			"Live",
+			"Test Settings",
+			"url",
+			"qty",
+			"css",
+			"stReturn.aVariations",
+			"stReturn.stChoosenVar",
+			"arguments.stProduct",
+			"arguments.lProducts",
+			"stOrder",
+			"conStoreID",
+			"distStoreID",
+			"bIsParticipant = 1",
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								847,
+								847
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Enhanced HTML and CFML/EnhancedHTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 215.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 233.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"displaybodyexchage",
+				"mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/dmHTML/displayBodyExchangeProducts.cfm"
+			],
+			[
+				"fcbpendingimport",
+				"dririder/farcry/projects/dririder/packages/types/fcbPendingImport.cfc"
+			],
+			[
+				"dispalysear",
+				"mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/webskin/fcbProduct/displaySearch.cfm"
+			],
+			[
+				"productsear",
+				"mcleodaustraliapostreturns/farcry/projects/mcleodaustraliapostreturns/includedObj/_productSearch.cfm"
+			],
+			[
+				"returndetails",
+				"m2r/farcry/projects/m2r/webskin/fcbOrderReturn/returnDetails.cfm"
+			],
+			[
+				"displayfooterbloc",
+				"autopia/farcry/projects/autopia/webskin/types/displayFooterBlog.cfm"
+			],
+			[
+				"displayfooterblog",
+				"autopia/farcry/projects/autopia/webskin/types/displayFooterBlog.cfm"
+			],
+			[
+				"displayfooterstandard",
+				"edharry/farcry/core/webskin/types/displayFooterStandard.cfm"
+			],
+			[
+				"displayfooter",
+				"edharry/farcry/core/webskin/types/displayFooterStandard.cfm"
+			],
+			[
+				"googlemapapikeys",
+				"hoshizakilancer/farcry/projects/hoshizakilancer/customadmin/customlists/googleMapAPIKeys.cfm"
+			],
+			[
+				"k_",
+				"fcbResponsiveSKeleton/farcry/plugins/fcblib/www/js/K_CrossControl.js"
+			],
+			[
+				"forum.css",
+				"ashdown/forum/stylesheets/forum.css"
+			],
+			[
+				"shop.css",
+				"dririder/css/shop.css"
+			],
+			[
+				"enpquoteed",
+				"base/apps/ajax/enpQuote/ajaxFormEnpQuoteEdit.cfm"
+			],
+			[
+				"displaypageproductinde",
+				"edharry/farcry/projects/edharry/webskin/dmHTML/displayPageProductIndex.cfm"
+			],
+			[
+				"displaypagere",
+				"edharry/farcry/projects/edharry/webskin/fcbShop/displayPageRegister.cfm"
+			],
+			[
+				"combine",
+				"farcry/core/packages/farcry/combine/combine.cfc"
+			],
+			[
+				"displaypager",
+				"edharry/farcry/projects/edharry/webskin/fcbShop/displayPageRegister.cfm"
+			],
+			[
+				"displaypagenewarr",
+				"edharry/farcry/projects/edharry/webskin/fcbShop/displayPageNewArrivals.cfm"
+			],
+			[
+				"displayproductindex",
+				"edharry/farcry/projects/edharry/webskin/dmHTML/displayBodyProductIndex.cfm"
+			],
+			[
+				"displayproductin",
+				"edharry/farcry/plugins/fcbshop/webskin/dmHTML/displayPageProductIndex.cfm"
+			],
+			[
+				"displaypagenew",
+				"edharry/farcry/projects/edharry/webskin/fcbShop/displayPageNewArrivals.cfm"
+			],
+			[
+				"displayfacebooksourceimageurl",
+				"beerenberg/farcry/projects/beerenberg/webskin/dmImage/displayFacebookSourceImageURL.cfm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/websites/kberglineandmarking/kberglineandmarking.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true
+}

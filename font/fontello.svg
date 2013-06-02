@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2012 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="flickr" unicode="&#xe805;" d="M0 350q0 104 73 177t177 73 177-73 73-177-73-177-177-73-177 73-73 177z m552 0q0 104 73 177t177 73 177-73 73-177-73-177-177-73-177 73-73 177z" horiz-adv-x="1052" />
+<glyph glyph-name="linkedin" unicode="&#xe804;" d="M0 730q0 50 35 83t91 33q55 0 89-32 35-33 35-86 0-48-34-80-35-33-92-33l-1 0q-55 0-89 33t-34 83z m13-875l0 668 222 0 0-668-222 0z m345 0l222 0 0 373q0 35 8 54 14 34 43 58t72 24q112 0 112-151l0-357 222 0 0 383q0 148-70 225t-185 77q-129 0-201-111l0-2-1 0 1 2 0 95-222 0q2-32 2-199t-2-469z" horiz-adv-x="1036" />
+<glyph glyph-name="facebook" unicode="&#xe803;" d="M0 313l0 191 154 0 0 96q0 104 68 177t164 73l153 0 0-191-153 0q-15 0-27-17t-12-41l0-98 192 0 0-191-192 0 0-463-192 0 0 463-154 0z" horiz-adv-x="538" />
+<glyph glyph-name="ok" unicode="&#xe800;" d="M352-10l-334 332 158 160 176-174 400 401 159-160z" horiz-adv-x="928" />
+<glyph glyph-name="mail-alt" unicode="&#xe801;" d="M0 11l0 443q25-27 56-49 202-137 277-193 32-23 52-37t53-27 61-14l1 0q28 0 61 14t53 27 52 37q95 69 278 193 32 22 56 49l0-443q0-37-26-63t-63-26l-821 0q-37 0-63 26t-26 63z m0 595q0 44 23 73t66 29l821 0q36 0 63-26t27-63q0-44-27-84t-68-69q-210-146-261-181-6-4-24-17t-30-21-29-18-32-15-28-5l-1 0q-13 0-28 5t-32 15-29 18-30 21-24 17q-51 36-146 102t-114 80q-35 23-65 64t-31 76z" horiz-adv-x="1000" />
+<glyph glyph-name="phone" unicode="&#xe802;" d="M0 589q0 51 28 104 31 56 59 68 14 6 38 12t39 6q8 0 12-2 10-3 30-42 6-11 17-30t20-35 17-30q2-2 10-14t12-20 4-16q0-11-16-28t-35-31-35-30-16-26q0-5 3-13t5-11 8-13 6-11q42-76 97-131t131-97q1-1 11-6t13-8 11-5 13-3q10 0 26 16t30 35 31 35 28 16q8 0 16-4t20-12 14-10q14-8 30-17t35-20 30-17q39-20 42-30 2-4 2-12 0-15-6-39t-12-38q-12-28-68-59-52-28-104-28-15 0-29 2t-32 7-27 8-31 11-27 10q-55 20-98 46-71 44-148 120t-120 148q-27 43-46 98-2 5-10 27t-11 31-8 27-7 32-2 29z" horiz-adv-x="785.714" />
+</font>
+</defs>
+</svg>
